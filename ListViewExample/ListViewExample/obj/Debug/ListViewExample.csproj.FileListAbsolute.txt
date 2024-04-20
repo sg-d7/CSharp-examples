@@ -1,0 +1,10 @@
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\bin\Debug\ListViewExample.exe.config
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\bin\Debug\ListViewExample.exe
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\bin\Debug\ListViewExample.pdb
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.csproj.AssemblyReference.cache
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.frmMain.resources
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.Properties.Resources.resources
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.csproj.GenerateResource.cache
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.csproj.CoreCompileInputs.cache
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.exe
+C:\PROG\Github\C# examples\CSharp-examples\ListViewExample\ListViewExample\obj\Debug\ListViewExample.pdb
